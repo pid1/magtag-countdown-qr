@@ -2,6 +2,8 @@
 
 Adafruit Magtag countdown display with an associated QR for linking to an event page
 
+![Example](https://github.com/pid1/magtag-countdown-qr/blob/main/example.png?raw=true)
+
 ## Dependencies
 
 This assumes that you are running [CircuitPython](https://circuitpython.org/board/adafruit_magtag_2.9_grayscale/)
